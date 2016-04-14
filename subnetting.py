@@ -20,7 +20,7 @@
 ##OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 ##SOFTWARE.
 
-##subnetpractice.py 
+##waffleSubnetting.py 
 ##Python 3.X
 ##Last Updated: 02.25.2016..23.36
 ##
